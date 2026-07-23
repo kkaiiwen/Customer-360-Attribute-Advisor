@@ -26,9 +26,6 @@ PATH="/Users/emokk/.cache/codex-runtimes/codex-primary-runtime/dependencies/node
 ```
 
 #### Browser:
-
 http://localhost:3000/
-
-
 
 
