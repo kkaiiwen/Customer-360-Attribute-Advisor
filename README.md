@@ -5,27 +5,27 @@ Ask about attribute availability, business definitions, calculation logic, updat
 
 ### MacOS
 
-Terminal 1: Activate agent
+#### Terminal 1: Activate agent
 
-'''bash
+```bash
 
 cd "/Users/emokk/Documents/Codex/2026-07-22/skill-creator-users-emokk-codex-skills/customer-360-ui-demo"
 
 /Users/emokk/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node local-agent-server.mjs
 
-'''
+```
 
-Terminal 2: Activate web page
+#### Terminal 2: Activate web page
 
-'''bash
+```bash
 
 cd "/Users/emokk/Documents/Codex/2026-07-22/skill-creator-users-emokk-codex-skills/customer-360-ui-demo"
 
 PATH="/Users/emokk/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin:$PATH" ./node_modules/.bin/vinext dev
 
-'''
+```
 
-Browser:
+#### Browser:
 
 http://localhost:3000/
 
