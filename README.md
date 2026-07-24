@@ -3,9 +3,9 @@ Ask about attribute availability, business definitions, calculation logic, updat
 
 ## Quick start
 
-### MacOS
+### 1. MacOS
 
-#### Prerequisites
+#### 1.1 Prerequisites
 
 Before starting, make sure:
 Node.js 22.13 or later is installed.
@@ -17,7 +17,7 @@ Friday/
 └── customer-360-attribute-advisor/
 ```
 
-#### Install Dependencies
+#### 1.2 Install Dependencies
 
 Open Terminal and navigate to the UI folder:
 ```bash
@@ -26,7 +26,7 @@ npm install
 ```
 This step is required only the first time.
 
-#### Terminal 1: Start the Agent
+#### 1.3 Terminal 1: Start the Agent
 
 ```bash
 cd Friday/customer-360-ui-demo
@@ -34,7 +34,7 @@ npm run agent
 ```
 Keep this Terminal window open.
 
-#### Terminal 2: Start the Web App
+#### 1.4 Terminal 2: Start the Web App
 
 Open another Terminal window:
 ```bash
@@ -43,15 +43,15 @@ npm run dev
 ```
 Keep this Terminal window open.
 
-#### Browser: Open the Web App
+#### 1.5 Browser: Open the Web App
 
 Open the Local URL displayed in Terminal:
 http://localhost:3000/
 
-#### Stop the Application
+#### 1.6 Stop the Application
 
 Press Control + C in both Terminal windows.
 
-#### Network Note:
+#### 1.7Network Note:
 
 The Agent requires access to Codex services. Users must ensure that their network environment can access the required OpenAI services and comply with applicable organizational and local network policies.
