@@ -27,7 +27,7 @@ Friday/
 Open Terminal and navigate to the app folder:
 ```bash
 # Replace this path with the actual location on your computer.
-cd /Users/your-name/path-to-Friday/Friday/customer-360-advisor-app
+cd "/Users/your-name/path-to-Friday/Friday/customer-360-advisor-app"
 npm install
 ```
 This step is required only the first time.
@@ -37,7 +37,7 @@ This step is required only the first time.
 
 ```bash
 # Replace this path with the actual location on your computer.
-cd /Users/your-name/path-to-Friday/Friday/customer-360-advisor-app
+cd "/Users/your-name/path-to-Friday/Friday/customer-360-advisor-app"
 npm run agent
 ```
 Keep this Terminal window open.
@@ -48,7 +48,7 @@ Keep this Terminal window open.
 Open another Terminal window:
 ```bash
 # Replace this path with the actual location on your computer.
-cd /Users/your-name/path-to-Friday/Friday/customer-360-advisor-app
+cd "/Users/your-name/path-to-Friday/Friday/customer-360-advisor-app"
 npm run dev
 ```
 Keep this Terminal window open.
