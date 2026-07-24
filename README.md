@@ -1,6 +1,12 @@
 # Customer-360-Attribute-Advisor
 Ask `Friday` about attribute availability, business definitions, calculation logic, update frequency, data latency, or enumerated values. Answers are grounded exclusively in the Customer 360 Attribute Dictionary.
 
+<p align="center">
+  <kbd>
+    <img width="800" src="https://github.com/kkaiiwen/Customer-360-Attribute-Advisor/blob/main/Graphics/Friday.png">
+  </kbd>
+</p>
+
 
 ## Quick Start
 
