@@ -3,7 +3,7 @@ Ask about attribute availability, business definitions, calculation logic, updat
 
 ## Quick start
 
-### MacOS
+### 1 MacOS
 
 #### 1.1 Prerequisites
 
