@@ -14,7 +14,7 @@ Before starting, make sure:
 
 - Node.js 22.13 or later is installed.
 - Codex Desktop or Codex CLI is installed and signed in.
-- The 'Friday' folder has been downloaded with the following structure:
+- The `Friday` folder has been downloaded with the following structure:
 ```text
 Friday/
 ├── customer-360-advisor-app/
@@ -53,14 +53,12 @@ Keep this Terminal window open.
 
 ### 1.5 Browser: Open the Web App
 
-Open the Local URL displayed in Terminal:
-
-http://localhost:3000/
+Open the Local URL displayed in Terminal: http://localhost:3000/
 
 
 ### 1.6 Stop the Application
 
-Press 'Control' + 'C' in both Terminal windows.
+Press `Control + C` in both Terminal windows.
 
 
 ### 1.7 Network Note
