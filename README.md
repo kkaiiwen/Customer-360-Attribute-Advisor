@@ -54,12 +54,13 @@ Keep this Terminal window open.
 ### 1.5 Browser: Open the Web App
 
 Open the Local URL displayed in Terminal:
+
 http://localhost:3000/
 
 
 ### 1.6 Stop the Application
 
-Press Control + C in both Terminal windows.
+Press 'Control' + 'C' in both Terminal windows.
 
 
 ### 1.7 Network Note
