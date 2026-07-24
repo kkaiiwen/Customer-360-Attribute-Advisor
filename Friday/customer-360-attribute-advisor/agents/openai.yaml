@@ -1,4 +1,0 @@
-interface:
-  display_name: "Customer 360 Attribute Advisor"
-  short_description: "Customer 360 标签字典专属双语数据顾问"
-  default_prompt: "Use $customer-360-attribute-advisor to answer this Customer 360 attribute question strictly from the dictionary."
