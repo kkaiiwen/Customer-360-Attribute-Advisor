@@ -8,8 +8,11 @@ Ask about attribute availability, business definitions, calculation logic, updat
 #### 1.1 Prerequisites
 
 Before starting, make sure:
+
 Node.js 22.13 or later is installed.
+
 Codex Desktop or Codex CLI is installed and signed in.
+
 The 'Friday' folder is downloaded and remain in the following structure:
 ```text
 Friday/
