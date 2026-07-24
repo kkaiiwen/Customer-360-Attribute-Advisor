@@ -6,6 +6,9 @@ Ask `Friday` about attribute availability, business definitions, calculation log
     <img width="800" src="https://github.com/kkaiiwen/Customer-360-Attribute-Advisor/blob/main/Graphics/Friday.png">
   </kbd>
 </p>
+<p align="center">
+    <text> Figure 1: Friday - Customer 360 Attribute Advisor Agent </text>
+</p>
 
 
 ## Quick Start
