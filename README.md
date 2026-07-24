@@ -57,6 +57,7 @@ Keep this Terminal window open.
 ### 1.5 Browser: Open the Web App
 
 Open the Local URL displayed in Terminal: 
+
 http://localhost:3000/
 
 
