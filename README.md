@@ -24,7 +24,7 @@ Open Terminal and navigate to the UI folder:
 cd Friday/customer-360-ui-demo
 npm install
 ```
-This step is required only at the first time.
+This step is required only the first time.
 
 #### Terminal 1: Start the Agent
 
