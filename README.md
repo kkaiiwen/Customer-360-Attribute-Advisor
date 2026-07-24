@@ -7,7 +7,7 @@ Ask `Friday` about attribute availability, business definitions, calculation log
   </kbd>
 </p>
 <p align="center">
-    <text> Figure 1: Friday - Customer 360 Attribute Advisor Agent </text>
+    <text> Figure 1: Customer 360 Attribute Advisor Agent - Friday </text>
 </p>
 
 
