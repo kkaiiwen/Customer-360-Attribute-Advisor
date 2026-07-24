@@ -12,7 +12,7 @@ Ask about attribute availability, business definitions, calculation logic, updat
 
 Before starting, make sure:
 
-- Node.js 22.13 or later is installed: https://nodejs.org/en/download.
+- Node.js 22.13 or later is installed. Download it from: https://nodejs.org/en/download.
 - Codex Desktop or Codex CLI is installed and signed in.
 - The `Friday` folder has been downloaded with the following structure:
 ```text
