@@ -14,7 +14,7 @@ Before starting, make sure:
 - The 'Friday' folder has been downloaded with the following structure:
 ```text
 Friday/
-├── customer-360-ui-demo/
+├── customer-360-advisor-app/
 └── customer-360-attribute-advisor/
 ```
 
@@ -22,7 +22,7 @@ Friday/
 
 Open Terminal and navigate to the UI folder:
 ```bash
-cd Friday/customer-360-ui-demo
+cd Friday/customer-360-advisor-app
 npm install
 ```
 This step is required only the first time.
@@ -30,7 +30,7 @@ This step is required only the first time.
 #### 1.3 Terminal 1: Start the Agent
 
 ```bash
-cd Friday/customer-360-ui-demo
+cd Friday/customer-360-advisor-app
 npm run agent
 ```
 Keep this Terminal window open.
@@ -39,7 +39,7 @@ Keep this Terminal window open.
 
 Open another Terminal window:
 ```bash
-cd Friday/customer-360-ui-demo
+cd Friday/customer-360-advisor-app
 npm run dev
 ```
 Keep this Terminal window open.
