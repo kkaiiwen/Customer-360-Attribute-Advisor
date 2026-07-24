@@ -26,7 +26,7 @@ Friday/
 
 Open Terminal and navigate to the app folder:
 ```bash
-cd Friday/customer-360-advisor-app
+cd /Users/emokk/Documents/GitHub/Customer-360-Attribute-Advisor/Friday/customer-360-advisor-app # Change it to your own path
 npm install
 ```
 This step is required only the first time.
@@ -35,7 +35,7 @@ This step is required only the first time.
 ### 1.3 Terminal 1: Start the Agent
 
 ```bash
-cd Friday/customer-360-advisor-app
+cd /Users/emokk/Documents/GitHub/Customer-360-Attribute-Advisor/Friday/customer-360-advisor-app # Change it to your own path
 npm run agent
 ```
 Keep this Terminal window open.
@@ -45,7 +45,7 @@ Keep this Terminal window open.
 
 Open another Terminal window:
 ```bash
-cd Friday/customer-360-advisor-app
+cd /Users/emokk/Documents/GitHub/Customer-360-Attribute-Advisor/Friday/customer-360-advisor-app # Change it to your own path
 npm run dev
 ```
 Keep this Terminal window open.
