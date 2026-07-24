@@ -24,7 +24,7 @@ Friday/
 
 ### 1.2 Install Dependencies
 
-Open Terminal and navigate to the UI folder:
+Open Terminal and navigate to the app folder:
 ```bash
 cd Friday/customer-360-advisor-app
 npm install
@@ -53,7 +53,8 @@ Keep this Terminal window open.
 
 ### 1.5 Browser: Open the Web App
 
-Open the Local URL displayed in Terminal:  http://localhost:3000/
+Open the Local URL displayed in Terminal: 
+http://localhost:3000/
 
 
 ### 1.6 Stop the Application
