@@ -5,27 +5,53 @@ Ask about attribute availability, business definitions, calculation logic, updat
 
 ### MacOS
 
-#### Terminal 1: Activate agent
+#### Prerequisites
 
-```bash
-
-cd "/Users/emokk/Documents/Codex/2026-07-22/skill-creator-users-emokk-codex-skills/customer-360-ui-demo"
-
-/Users/emokk/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node local-agent-server.mjs
-
+Before starting, make sure:
+Node.js 22.13 or later is installed.
+Codex Desktop or Codex CLI is installed and signed in.
+The 'Friday' folder is downloaded and remain in the following structure:
+```text
+Friday/
+├── customer-360-ui-demo/
+└── customer-360-attribute-advisor/
 ```
 
-#### Terminal 2: Activate web page
+#### Install Dependencies
+
+Open Terminal and navigate to the UI folder:
+```bash
+cd Friday/customer-360-ui-demo
+npm install
+```
+This step is required only at the first time.
+
+#### Terminal 1: Start the Agent
 
 ```bash
-
-cd "/Users/emokk/Documents/Codex/2026-07-22/skill-creator-users-emokk-codex-skills/customer-360-ui-demo"
-
-PATH="/Users/emokk/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin:$PATH" ./node_modules/.bin/vinext dev
-
+cd Friday/customer-360-ui-demo
+npm run agent
 ```
+Keep this Terminal window open.
 
-#### Browser:
+#### Terminal 2: Start the Web App
+
+Open another Terminal window:
+```bash
+cd Friday/customer-360-ui-demo
+npm run dev
+```
+Keep this Terminal window open.
+
+#### Browser: Open the Web App
+
+Open the Local URL displayed in Terminal:
 http://localhost:3000/
 
+#### Stop the Application
 
+Press Control + C in both Terminal windows.
+
+#### Network Note:
+
+The Agent requires access to Codex services. Users must ensure that their network environment can access the required OpenAI services and comply with applicable organizational and local network policies.
