@@ -1,5 +1,5 @@
 # Customer-360-Attribute-Advisor
-Ask about attribute availability, business definitions, calculation logic, update frequency, data latency, or enumerated values. Answers are grounded exclusively in the Customer 360 Attribute Dictionary.
+Ask `Friday` about attribute availability, business definitions, calculation logic, update frequency, data latency, or enumerated values. Answers are grounded exclusively in the Customer 360 Attribute Dictionary.
 
 
 ## Quick Start
